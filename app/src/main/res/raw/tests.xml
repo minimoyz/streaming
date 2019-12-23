@@ -1,9 +1,9 @@
 <Testbed>
     <Properties>
         <bitrate>750</bitrate>
-        <host>0.0.0.0</host>
+        <host>104.248.152.143</host>
         <server_port>5080</server_port>
-        <license_key></license_key>
+        <license_key>752N-Y85M-H2H3-ERQP</license_key>
         <publish_buffer_time>0.5</publish_buffer_time>
         <subscribe_buffer_time>0.5</subscribe_buffer_time>
         <port>8554</port>
